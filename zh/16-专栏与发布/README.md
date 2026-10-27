@@ -1,6 +1,6 @@
 # 16 · 专栏与发布
 
-> 仓库根目录 [**`16-专栏与发布/`**](../../../16-专栏与发布/) 为本目录的**符号链接**（与 `en`、`zh` 同级，便于 GitHub 文件树直达）。
+> **路径**：`zh/16-专栏与发布/`（GitHub / Gitee 通用）。根 README 含全库一览与专栏 16 篇直链。
 
 **English column:** [en/16-articles/README.md](../../en/16-articles/README.md)
 
