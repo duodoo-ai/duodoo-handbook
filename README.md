@@ -1,65 +1,60 @@
 # DuodooTekr Handbook
 
-**Duodoo Information Technology (Nanjing) Co., Ltd.** — remote IoT for water and pump assets; Odoo-based digital operations for manufacturing and cross-border trade.
+多度科技 **公开文档库**（GitHub / Gitee：`duodoo-ai/duodoo-handbook`）— 工贸 / 出海 **ERP 选型与实施**、产品手册、行业方案。
 
-| Website | Email |
-|---------|-------|
-| https://www.duodoo.tech | zou.jason@qq.com |
-
-Public documentation: **duodoo-ai/duodoo-handbook** (GitHub / Gitee).
+[duodoo.tech](https://www.duodoo.tech) · zou.jason@qq.com · 微信 **duodoo2018** · English [en/README.md](./en/README.md)
 
 ---
 
-## Featured articles（中文专栏 · 进入即读）
+## 本仓库里有什么（一览）
 
-GitHub 仓库首页**只展示本 README**；长文正文在下方链接中，**点开即可阅读**（无需克隆）。
+| 板块 | 内容说明 | 规模 | 打开 |
+|:----:|----------|:----:|------|
+| **专栏** | 已发布长文（知乎 / CSDN 定稿），**点开即读** | **16 篇** | [文件夹](./16-专栏与发布/) · [导读](./16-专栏与发布/00-从这里开始.md) |
+| **12 产品手册** | 新智造 ERP 各模块操作说明 | 14 篇 | [zh/12-用户手册/](./zh/12-用户手册/) |
+| **13 行业方案** | 电子、新材料、食品、钢铁等场景方案 | 11 篇 | [zh/13-行业方案/](./zh/13-行业方案/) |
+| **10 愿景** | 公司与开源主张 | 1 篇 | [zh/10-项目愿景/](./zh/10-项目愿景/) |
+| **11 官方资源** | 方案节选、方法论长文 | 3 篇 | [zh/11-官方资源/](./zh/11-官方资源/) |
+| **14 技术资料** | 可公开技术说明 | 见目录 | [zh/14-技术资料/](./zh/14-技术资料/) |
+| **15 服务与联系** | 商务对接、服务边界 | — | [zh/15-服务与联系/](./zh/15-服务与联系/) |
+| **中文总目录** | 上表各板块的完整链接 | — | [zh/README.md](./zh/README.md) |
 
-| 读者 | 入口 |
-|------|------|
-| **根目录文件夹（与 `en`/`zh` 同级）** | [**16-专栏与发布/**](./16-专栏与发布/) → 16 篇正文与目录 |
-| 工贸 ERP · 开篇 | [01 · 一期烂尾的真相](./16-专栏与发布/01-干了19年IT-我看透了ERP一期烂尾的真相.md) |
-| 工贸 ERP · 边界 | [02 · 一期塞太多](./16-专栏与发布/02-边界-一期塞太多不是省钱是烂尾的开始.md) |
-| 出海 ERP · 决策树 | [05 · 自产还是转口](./16-专栏与发布/05-出海ERP-没库存时自产自销还是转口贸易.md) |
-| 出海 ERP · 最新篇 | [16 · 异地产能与产地留痕](./16-专栏与发布/16-出海ERP-异地产能与产地留痕.md) |
-
-（权威路径仍为 `zh/16-专栏与发布/`；根目录为 **符号链接**，便于在仓库文件树一眼看到专栏。）
-
-中文总索引：[zh/README.md](./zh/README.md)（含 10～16 板块）。
-
----
-
-## Choose language
-
-| Language | Documentation |
-|----------|-----------------|
-| **English** | [en/README.md](./en/README.md) — sections **10 · 15 · 16** (vision, contact, articles) |
-| **中文** | [zh/README.md](./zh/README.md) — sections **10–16** (full manuals and industry content) |
+> 进入仓库后：**上表 = 整库地图**；最常分享的是下面 **专栏 16 篇**（已全部列出，无需先翻文件夹）。
 
 ---
 
-## English quick links
+## 专栏文章（全部 16 篇 · 点击标题阅读）
 
-| Section | Link |
-|---------|------|
-| Vision | [en/10-vision/](./en/10-vision/) |
-| Services & contact | [en/15-contact/](./en/15-contact/) |
-| Articles (Phased ERP **01 → 02**) | [en/16-articles/](./en/16-articles/) |
+导读（按角色 / 时间）：[**00 · 从这里开始**](./16-专栏与发布/00-从这里开始.md) · 连载读法：打开任一篇后，用文内 **下篇** 连续阅读。
 
-Manuals and industry papers (11–14) are in **[zh/](./zh/)** until English versions are published.
+### 工贸 ERP · 分期与验收（4 篇）
+
+| # | 标题 |
+|:-:|------|
+| 01 | [干了19年IT…我看透了ERP一期烂尾的真相](./16-专栏与发布/01-干了19年IT-我看透了ERP一期烂尾的真相.md) |
+| 02 | [【边界】「一期」塞太多，不是省钱，是烂尾的开始](./16-专栏与发布/02-边界-一期塞太多不是省钱是烂尾的开始.md) |
+| 03 | [【分期表】制造+贸易上 ERP：一张表划清一期和二期](./16-专栏与发布/03-分期表-制造贸易ERP一张表划清一期和二期.md) |
+| 04 | [【七件事】签合同前，老板和 IT 最该对齐的 7 件事](./16-专栏与发布/04-七件事-签合同前老板和IT最该对齐的7件事.md) |
+
+### 出海 ERP（12 篇）
+
+| # | 标题 |
+|:-:|------|
+| 05 | [没库存时：自产自销还是转口贸易？](./16-专栏与发布/05-出海ERP-没库存时自产自销还是转口贸易.md) |
+| 06 | [销售出库前，系统必须能回答的 3 个问题](./16-专栏与发布/06-出海ERP-销售出库前系统必须回答的三个问题.md) |
+| 07 | [合同评审单：从接单到排产](./16-专栏与发布/07-出海ERP-合同评审单从接单到排产.md) |
+| 08 | [国内/国外客户：两套销售口径怎么录单](./16-专栏与发布/08-出海ERP-国内国外客户两套销售口径怎么录单.md) |
+| 09 | [四种经营组合：主数据怎么建](./16-专栏与发布/09-出海ERP-四种经营组合主数据怎么建.md) |
+| 10 | [齐套不够：采购谁触发](./16-专栏与发布/10-出海ERP-齐套不够采购谁触发.md) |
+| 11 | [进口直采 vs 集团代购](./16-专栏与发布/11-出海ERP-进口直采还是集团代购.md) |
+| 12 | [货代服务付款节点清单](./16-专栏与发布/12-出海ERP-货代服务付款节点清单.md) |
+| 13 | [VAT 内外销税额怎么体现](./16-专栏与发布/13-出海ERP-VAT内外销税额怎么体现.md) |
+| 14 | [合同金额与价外费用](./16-专栏与发布/14-出海ERP-合同金额与价外费用.md) |
+| 15 | [集团调度与多公司边界](./16-专栏与发布/15-出海ERP-集团调度与多公司边界.md) |
+| 16 | [异地产能与产地留痕](./16-专栏与发布/16-出海ERP-异地产能与产地留痕.md) |
+
+专栏篇数继续增加时：本页 **一览表** 更新规模；**全篇目** 以 [16-专栏与发布/README.md](./16-专栏与发布/README.md) 为准（避免首页过长）。
 
 ---
 
-## Repository layout
-
-```text
-README.md              English homepage (this file)
-16-专栏与发布/         → zh/16-专栏与发布（专栏 16 篇，根目录入口）
-en/                    English documentation
-zh/                    Chinese documentation
-GLOBALIZATION.md       Language policy (EN + 中文)
-MIGRATION.md           Path and repo notes
-```
-
----
-
-[GLOBALIZATION.md](./GLOBALIZATION.md) · [LICENSE](./LICENSE)
+[LICENSE](./LICENSE)
